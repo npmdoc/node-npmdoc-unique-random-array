@@ -1,6 +1,6 @@
 # npmdoc-unique-random-array
 
-#### api documentation for  [unique-random-array (v1.0.0)](https://github.com/sindresorhus/unique-random-array)  [![npm package](https://img.shields.io/npm/v/npmdoc-unique-random-array.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-unique-random-array) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-unique-random-array.svg)](https://travis-ci.org/npmdoc/node-npmdoc-unique-random-array)
+#### basic api documentation for  [unique-random-array (v1.0.0)](https://github.com/sindresorhus/unique-random-array)  [![npm package](https://img.shields.io/npm/v/npmdoc-unique-random-array.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-unique-random-array) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-unique-random-array.svg)](https://travis-ci.org/npmdoc/node-npmdoc-unique-random-array)
 
 #### Get consecutively unique elements from an array
 
@@ -77,7 +77,8 @@
     "scripts": {
         "test": "node test.js"
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "bin": {}
 }
 ```
 
